@@ -22,3 +22,5 @@ dist
 yellowstone-grpc
 
 .env
+test
+tests
